@@ -1,0 +1,5 @@
+# The base paths to needed files
+
+files:
+  base_path: C:\Users\Kevin Nourian\Documents\py\Project\Birthday\Data\
+  modules_path: C:\Users\Kevin Nourian\Documents\py\Project\Birthday\Modules
